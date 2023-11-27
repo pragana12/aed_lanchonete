@@ -52,7 +52,7 @@ Windows:
    - Realiza análises exploratória e regressão linear.
    - Exibe gráficos e estatísticas descritivas.
 
-2. [Script - jupyter notebook](scripts/aed_lanchonete.ipynb)
+2. [jupyter notebook - Análise exploratória](scripts/aed_lanchonete.ipynb)
    - Projeto documentado sobre a análise exploratória da lanchonete
 
 
